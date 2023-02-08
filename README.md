@@ -1,2 +1,4 @@
 # Calculator
+![Calculator Screenshot](https://github.com/Yousaf1001/Calculator/blob/main/Screenshot%202023-02-08%20105811.png)
+
 This repository contains a fully functional calculator application that was built using HTML, CSS, and JavaScript. The project was designed to demonstrate the capabilities of these three web development technologies, as well as to provide a solid foundation for anyone looking to get started in the field of web development. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, and has been styled using CSS to give it a clean and modern look. The calculator is completely client-side, making use of JavaScript to provide its functionality. This project is a great example of how HTML, CSS, and JavaScript can be used together to create a dynamic and interactive web application.
